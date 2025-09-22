@@ -1,2 +1,1 @@
-print ("skibidi")
-print ("come stai?")
+"hello world"
